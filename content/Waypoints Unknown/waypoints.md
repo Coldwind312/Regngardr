@@ -4,6 +4,9 @@ title:
 tags:
   - GradI
 ---
+![[heavy-rain-int-day.webp]]
+
+
 1974
 [[wpu-uk-berwyn|The Berwyn Mountain Incident (Wales, UK)]]
 

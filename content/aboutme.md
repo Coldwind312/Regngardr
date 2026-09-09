@@ -12,12 +12,9 @@ Well, at the risk of looking all Internet 1.0, I thought I'd throw in a few fact
 
 My name is variable, for I am confused. Of the metric bagload of names I use for different things, the one most fitting for this place is Coldwind. And I am the keeper of this little Hollow in the Hedge.
 
-<figure>
-  <img
-    src="pics/coldwind-drow.jpg"
-    alt="AltText" width="700" align="center"/>
-  <figcaption><em>Not an entirely accurate rendition of me.</em></figcaption>
-</figure>
+![[coldwind-drow.jpg]]
+*Not an entirely accurate rendition of me.*
+
 I am a fifty-some-year-old trans woman with an identity problem. That plethora of different names and identities I mentioned isn't out of any desire to deceive or mislead, but rather because I've never really been able to figure out what my identity actually is. Sure, I have a state-registered name. I have documentation. But that only tells me what I'm *legally* called and sundry information about myself that the state keeps on file.
 
 The state in this case is that known as the United Kingdom, or Britain. I live there but I'm not really *of* it, if you see what I mean. I don't feel any particular affinity with it (though it has some lovely scenery). It's just where I happened to show up and it's familiar.

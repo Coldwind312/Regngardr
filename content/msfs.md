@@ -10,4 +10,4 @@ Some people are pretty disparaging about this particular sim, but honestly I lov
 
 The downside of going with Microsoft is, of course, Microsoft. Personally, I'd love to ditch Windows and switch over to using Linux. I'm not a big expert and certainly not a Linux evangelist if any kind—but I do see merit in fucking off the intrusive, controlling megacorporation. Every Windows game I play runs fine on Linux via Steam's Proton compatibility layer. Diablo IV allegedly runs well on Linux under Wine, the Windows emulator, although there are reports that using Wine can get yiur account flagged as using unauthorised third-party software...
 
-Nor relevant. Anyway, point is, moving to Linux would be a viable prospect for me as
+Nor relevant. Anyway, point is, moving to Linux would be a viable prospect for me as a gamer

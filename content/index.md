@@ -6,15 +6,13 @@ tags:
 ---
 The long and winding path has led you up the hillside and into the woods. The earth is soft under your feet, with the occasional half-buried root snaking across the way, and twigs here and there that snap at your tread. Hobbits would be tutting.
 
+![[on-the-path.webp]]
+
 But there's no need for stealth here. This isn't a place of danger. Despite the deepening shadows under the further trees, despite the greening of the light as you follow the trail up to the top of the last ridge, there's a sense of welcome here.
 
 Now you step down into a wide clearing.
 
-
-<img src="static\clearing-at-night-hdr.webp" class="dark-mode-img" alt="The clearing at night">
-
-<img src="static\clearing-daytime-hdr.jpg" class="light-mode-img" alt="The clearing in the day">
-
+![[in-the-clearing.webp]]
 
 In the centre of the clearing a well-maintained fire pit smokes gently, embers glowing. A cauldron of dull copper hangs from a tripod stand over the fire. It's not magic. It's thoroughly culinary. There are low benches made of half-logs set around, and positioned outside them, a couple of tables are strewn with bottles and plates.
 

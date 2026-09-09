@@ -15,7 +15,7 @@ The walls extend out and round, making for a sheltered bay in which lies, somewh
 <img src="https://lh3.googleusercontent.com/d/1n5OSlWmZB95AerNnLre1896102WZ0Fdm"
     alt="Heavy Rain at anchor in the harbour." width="700" align="center"/>
 
-This plane is a Grumman G-111 Albatross. It's old, but spacious and versatile. And its owner occasionally uses it to fly around looking at places of mystery, myth and folklore.
+This plane—which due to the strange magics hereabouts looks oddly small for such a large aircraft—is a Grumman G-111 Albatross. It's old, but spacious and versatile. And its owner occasionally uses it to fly around looking at places of mystery, myth and folklore.
 
 [[waypoints|Waypoints Unknown]]
 [[msfs|Flight Sim Stuff]]

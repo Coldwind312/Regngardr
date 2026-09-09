@@ -6,7 +6,9 @@ tags:
 ---
 The centrepiece of the clearing is that firepit you saw as you approached. The log benches around it look surprisingly comfortable. Dotted here and there, tables made of rough stumps. That coppery-looking cauldron that sits above.
 
-You take a seat and look around in more detail. You notice, high up in the tree branches, strings of fairy lights - switched off for now, but you imagine that in the evenings they must make a pretty canopy for whatever gathering might take place here.
+![[at-the-campfire.webp]]
+
+You take a seat and look around in more detail. You notice, above in the tree branches, strings of fairy lights giving a gentle blue-ish light. A pretty canopy for whatever gathering might take place here.
 
 The ground around the clearing is soft earth and bark chips. There are torch stands dotted around the perimeter at intervals.
 

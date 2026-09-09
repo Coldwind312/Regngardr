@@ -113,6 +113,7 @@ Well, not really. Meteors can make a hell of a bang and big shiny light even whe
     alt="Footage of the falling meteor over Chelyabinsk in 2013, taken from a local resident’s dashcam" width="700" align="center"/>
   <figcaption><em>Footage of the falling meteor over Chelyabinsk in 2013, taken from a local resident’s dashcam</em></figcaption>
 </figure>
+
 And it never—at least as one object—hit the ground. Fragments did, and were subsequently collected; and the shock from the explosion definitely left a mark. But it didn’t leave a single classic impact crater at a single site. A smaller bolide, less explosive force, or higher altitude could easily have left Chelyabinsk residents wondering what that tremendous bang and the momentary bright flare of light might have been, without any evidence left on the ground at all.
 
 Back to Berwyn.
