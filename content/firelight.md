@@ -14,4 +14,4 @@ The ground around the clearing is soft earth and bark chips. There are torch sta
 
 The whole place feels welcoming. A place of friendship and respite from the world back through the trees.
 
-[Talk. Listen. Rest. Coexist.](https://discord.gg/bhHrTy4hQ)
+[Talk. Listen. Rest. Coexist.](https://discord.gg/6TycpHWYAm)

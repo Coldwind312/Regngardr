@@ -40,9 +40,12 @@ I'm a Squall. A being of water and air. I love rivers, lakes and the sea. Waterf
 
 Whether I'm Scottish or not depends who you ask. The approximate human form with me in it lives in the Midlands of England. But it is half Scottish by heritage, and has—perhaps because of a well-known phenomenon relating to grass colouration—always felt a rather stronger affinity with that country than with the one in which it actually lives.
 
+Politically I'm technically a communist, but
+
 I don't like to think of myself as a gamer, but if I must—by dint of the fact that I've wasted so much of my precious time on this Earth playing video games—then I would like to stress that I am a gamer, and not a Gamer™. Some of the games I enjoy most are listed in my Faves page.
 
 Speaking of:
 
 [[faves|A Feast of Faves]]
 [[links|Rinkydinkylinks]]
+[[communist-moi|Seeing if I'm a Communist]]
