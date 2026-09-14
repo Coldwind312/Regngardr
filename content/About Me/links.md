@@ -48,7 +48,8 @@ There's the horrors, obviously, but we're trying to keep those to a minimum here
 ---
 ### **Politics and Media**
 
-- [Media Bias Fact Check](https://mediabiasfactcheck.com/) : search for news sources—newspapers, websites, TV, radio and online broadcasting—and check out assessments of their political lean (or outright bias) and the factuality of their reporting.
+- [Media Bias Fact Check](https://mediabiasfactcheck.com/) : before you go believing that thing that Gav told you down the pub which he knows FURRA FACT; or the damning statistics going round Facebook about how we need to PROTECT ARE BOARDERS FROM IMMERGRUNTS, look at where the claims are being published, and run them through this site.
+  Search for news sources—newspapers, websites, TV, radio and online broadcasting—and check out their ownership (which billionaire do they serve?), assessments of their political lean (or outright bias) and the factuality of their reporting (or whether they just make shit up out of cloth).
 
 ---
 ### **Tools**
