@@ -1,9 +1,11 @@
 ---
 title:
   - Into the Deepwoods
-tags:
-  - GradIV
+aliases:
 ---
+%% #GradIV %%
+
+
 Things, it must be said, might get a little darker here. At least, a bit more tetchy.
 
 Your host is, after all, a drow. An 'under-elf'. In spirit at least. And there's only so much that such a one can do to put a cheery and amiable mask over the vicious, spiteful monstrosity underneath.
@@ -19,5 +21,6 @@ Otherwise, a couple of initial samples. I'll add to them intermittently.
 
 2026-05-09: [[blog-uaps-corrupt-epstein-president|The UAP Files – Corrupt US President Attempts Further Distraction From Some Other Files]]
 2026-06-14: [[blog-error-occurred|An Error Occurred]]
+2026-09-16: [[blog-kash-priorities|Kash Patel's Startling Priorities]]
 
 ---

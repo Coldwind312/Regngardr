@@ -2,8 +2,9 @@
 title:
   - A Good Old-Fashioned 'About Me' Page
 tags:
-  - GradIII
 ---
+%% #GradIII %%
+
 By crikey, it's like the early 90s again, isn't it?
 
 Well, at the risk of looking all Internet 1.0, I thought I'd throw in a few factoids about myself, then offer you some of my Favourite Things (by means of which I sometimes Don't Feel So Bad—see if they do unto you likewise); and then, in a real retro move, some links. A proper, honest-to-gremlins blogroll. Because I'm old and it's my site and I can.

@@ -2,6 +2,8 @@
 title:
   - Seeing if I'm a Communist
 ---
+%% #GradIV %%
+
 I took IDR Labs' 'Communism Test' to see if I'm a communist.
 
 Turns out I'm 70% of one, which sounds fair enough.
