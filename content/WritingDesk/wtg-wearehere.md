@@ -1,8 +1,6 @@
 ---
 title:
   - We're Here
-tags:
-  - OTP
 ---
 We are your dreams.
 

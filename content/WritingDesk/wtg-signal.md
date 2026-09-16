@@ -1,8 +1,6 @@
 ---
 title:
   - Signal Day
-tags:
-  - OTP
 ---
 Lucky it’s my stop: in the crush of people moving for the door I find I’ve no real choice but to get off. I stumble as I step down onto the platform, and clutch instinctively at the coat sleeve of a stocky man shuffling along next to me. He glares at me from under a heavy brow, and utters a profanity I pretend I don’t understand.
 

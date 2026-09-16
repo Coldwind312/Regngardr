@@ -1,8 +1,6 @@
 ---
 title:
   - The Cast of Every Memory
-tags:
-  - OTP
 ---
 All my memories are set at the same time of day. And time of year, I think.
 

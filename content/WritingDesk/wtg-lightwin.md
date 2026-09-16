@@ -1,8 +1,6 @@
 ---
 title:
   - The Light in the Windows
-tags:
-  - OTP
 ---
 I have this thing about windows. As we go round here, look: there's lit windows. And they say to you... just listen to them. I don't know in words; they have... they want to tell you stories. But they can't.
 
