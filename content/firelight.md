@@ -1,8 +1,6 @@
 ---
 title:
   - Around the Campfire
-tags:
-  - GradIV
 ---
 The centrepiece of the clearing is that firepit you saw as you approached. The log benches around it look surprisingly comfortable. Dotted here and there, tables made of rough stumps. That coppery-looking cauldron that sits above.
 

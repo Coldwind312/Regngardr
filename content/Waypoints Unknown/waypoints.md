@@ -1,8 +1,6 @@
 ---
 title:
   - Waypoints Unknown
-tags:
-  - GradI
 ---
 ![[heavy-rain-int-day.webp]]
 

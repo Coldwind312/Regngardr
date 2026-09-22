@@ -1,8 +1,6 @@
 ---
 title:
   - Coldwind's Little Lento Lean-To
-tags:
-  - GradIII
 ---
 The long and winding path has led you up the hillside and into the woods. The earth is soft under your feet, with the occasional half-buried root snaking across the way, and twigs here and there that snap at your tread. Hobbits would be tutting.
 

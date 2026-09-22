@@ -3,8 +3,6 @@ title:
   - A Feast of Faves
 tags:
 ---
-%% #Perpet %%
-
 They say you can learn a lot about someone by the things they enjoy.
 
 At least, they probably say that. Sounds like common sense, really.

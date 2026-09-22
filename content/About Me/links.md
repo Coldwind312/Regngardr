@@ -3,8 +3,6 @@ title:
   - Rinkydinkylinkydinks
 tags:
 ---
-%% #Perpet %%
-
 A blog roll. A real, live, eating and breathing blog roll. It is like Jurassic Park up in here.
 
 Hey, don’t knock it, though. There’s some useful stuff out there in Internet-land.

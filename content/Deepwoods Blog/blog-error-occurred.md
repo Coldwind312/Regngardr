@@ -1,10 +1,8 @@
 ---
 title:
   - An Error Occurred
-tags:
-  - OTP
 ---
-###### *Originally posted 2026-06-14*
+<small>Originally posted 2026-06-14</small>
 
 See, now this is the sort of thing that just infuriates the absolute beans out of me.
 

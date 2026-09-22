@@ -1,8 +1,6 @@
 ---
 title:
   - "Waypoints Unknown: The Berwyn Mountain UFO Incident"
-tags:
-  - OTP
 ---
 _**Location:** 52°55’16”N, 3°25’26”W / 52.921111, -3.423889  
 **Time:** 1974-01-23T2038  

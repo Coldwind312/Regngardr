@@ -1,8 +1,6 @@
 ---
 title:
   - The Water's Edge
-tags:
-  - GradII
 ---
 You make your way down the path from the main clearing towards what was advertised to you as a harbour. What you find... *sort* of qualifies.
 

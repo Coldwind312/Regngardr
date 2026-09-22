@@ -1,8 +1,6 @@
 ---
 title:
   - SpaceEngine Journeys
-tags:
-  - GradII
 ---
 [[space]][[space]]*[SpaceEngine](https://store.steampowered.com/app/314650/SpaceEngine/)* by Cosmographic Software is a '3D planetarium', a computer program that models... everything. The whole universe. More or less, albeit only to a given level of detail.
 

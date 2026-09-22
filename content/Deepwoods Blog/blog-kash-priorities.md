@@ -2,7 +2,7 @@
 title:
   - Kash Patel's Startling Priorities
 ---
-<small>**2026-09-16**</small>
+<small>Posted 2026-09-16</small>
 
 Unglued Trump minion Kash Patel, MAGA figurehead of the FBI, has told a Senate Judiciary Committee that he wants to relax the hiring rules at the Bureau in order not to automatically disqualify candidates who have engaged in bestiality.
 
@@ -39,4 +39,3 @@ US law is not really my forte, and I don’t really know how it works and whethe
 Anyway this is what the misdirector of the FBI is spending his time on this week instead of taking the Epstein files seriously.
 
 ---
-%% #OTP %%

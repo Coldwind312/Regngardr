@@ -13,11 +13,7 @@ They've obviously managed one or two bits of writing here and there, though. You
 [[wtg-lightwin|The Light in the Windows]]
 [[wtg-wearehere|We're Here]]
 
-
-
 ---
 [[inside|Step back from the Desk]]
 
-
 ---
-<!-- #GradII -->

@@ -1,8 +1,6 @@
 ---
 title:
   - The Ramshackle Shack
-tags:
-  - GradIV
 ---
 Inside, things are pretty much like you'd expect having seen the outside. It's a comfortable space, warm, lit by either oil lamps and fairy lights, or by daylight if applicable.
 

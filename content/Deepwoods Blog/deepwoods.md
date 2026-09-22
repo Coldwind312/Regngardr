@@ -1,11 +1,7 @@
 ---
 title:
   - Into the Deepwoods
-aliases:
 ---
-%% #GradIV %%
-
-
 Things, it must be said, might get a little darker here. At least, a bit more tetchy.
 
 Your host is, after all, a drow. An 'under-elf'. In spirit at least. And there's only so much that such a one can do to put a cheery and amiable mask over the vicious, spiteful monstrosity underneath.

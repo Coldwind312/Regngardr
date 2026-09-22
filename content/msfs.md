@@ -1,8 +1,6 @@
 ---
 title:
   - Flight Sim Stuff
-tags:
-  - GradII
 ---
 I spend quite a lot of time on *Microsoft Flight Simulator* 2024 (MSFS).
 

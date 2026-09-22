@@ -1,8 +1,6 @@
 ---
 title:
   - Mind-Bending Space Shit
-tags:
-  - GradI
 ---
 Please forgive the *uncouth* title. But space is, after all, pretty mind-bending, and honestly sometimes the vocabulary kind of gives out in the face of it and just goes... *That... is some mind-bending shit right there.*
 

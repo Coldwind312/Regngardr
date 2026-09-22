@@ -1,10 +1,8 @@
 ---
 title:
   - The UAP Files – Corrupt US President Attempts Weak Distraction From Some Other Files
-tags:
-  - OTP
 ---
-###### *Originally posted 2026-05-09*
+<small>Originally posted 2026-05-09</small>
 
 A new release by the US “government” of materials relating to UFOs, or UAPs[^1] as the cool kids call them these days, has revealed little that enthusiasts haven’t been aware of for years.
 

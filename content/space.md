@@ -1,8 +1,6 @@
 ---
 title:
   - The Spaceport
-tags:
-  - GradIII
 ---
 "The first step to everywhere." — Apex Interstellar taxi service advertising slogan; *Elite Dangerous*
 

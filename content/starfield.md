@@ -1,8 +1,6 @@
 ---
 title:
   - Starfield
-tags:
-  - GradII
 ---
 Step aboard the good ship *Least Weasel* and travel the spaceways with Captain Myriad Issigri.
 
