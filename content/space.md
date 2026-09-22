@@ -14,7 +14,7 @@ Below the mountains on the wide, even grassland you see a town. It's not a huge 
 
 The footpath you're following comes to an end at a small structure that appears somewhere between a bus stop and a train station. A maglev line runs from the station away toward the town, and from there you can take a shuttle to... well, *everywhere*.
 
-- [[starfield]]
+- [[starfield|Starfield]]
 - [[spaceengine|SpaceEngine Journeys]]
 - [[mbss|Mind-Bending Space Shit]]
 
