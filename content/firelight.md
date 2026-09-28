@@ -11,5 +11,3 @@ You take a seat and look around in more detail. You notice, above in the tree br
 The ground around the clearing is soft earth and bark chips. There are torch stands dotted around the perimeter at intervals.
 
 The whole place feels welcoming. A place of friendship and respite from the world back through the trees.
-
-[Talk. Listen. Rest. Coexist.](https://discord.gg/6TycpHWYAm)
